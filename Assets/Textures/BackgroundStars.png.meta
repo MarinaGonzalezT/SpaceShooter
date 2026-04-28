@@ -1,0 +1,7332 @@
+fileFormatVersion: 2
+guid: f8842703ad0c16c418d5bfe6604eef5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4480987937915246605
+    second: FondoEstrellas_0
+  - first:
+      213: -1724702482917027623
+    second: FondoEstrellas_1
+  - first:
+      213: 4222440406473165126
+    second: FondoEstrellas_2
+  - first:
+      213: 86147466307604245
+    second: FondoEstrellas_3
+  - first:
+      213: -3410019679921341723
+    second: FondoEstrellas_4
+  - first:
+      213: 4039966114899904296
+    second: FondoEstrellas_5
+  - first:
+      213: -5808677546083848127
+    second: FondoEstrellas_6
+  - first:
+      213: -2343844915403295415
+    second: FondoEstrellas_7
+  - first:
+      213: 6515993375929018211
+    second: FondoEstrellas_8
+  - first:
+      213: 5769022530113168825
+    second: FondoEstrellas_9
+  - first:
+      213: -4871909659790407482
+    second: FondoEstrellas_10
+  - first:
+      213: -5509594863633195194
+    second: FondoEstrellas_11
+  - first:
+      213: -145647124519976280
+    second: FondoEstrellas_12
+  - first:
+      213: 5675179067848545342
+    second: FondoEstrellas_13
+  - first:
+      213: 8526419573732603933
+    second: FondoEstrellas_14
+  - first:
+      213: 452518195864813160
+    second: FondoEstrellas_15
+  - first:
+      213: 839884905657696357
+    second: FondoEstrellas_16
+  - first:
+      213: -4792774025704615758
+    second: FondoEstrellas_17
+  - first:
+      213: -8473890006583899659
+    second: FondoEstrellas_18
+  - first:
+      213: 8044854592122097169
+    second: FondoEstrellas_19
+  - first:
+      213: -7946977723204487343
+    second: FondoEstrellas_20
+  - first:
+      213: 4899055192889957656
+    second: FondoEstrellas_21
+  - first:
+      213: -8690829796894424632
+    second: FondoEstrellas_22
+  - first:
+      213: -2947658796891026889
+    second: FondoEstrellas_23
+  - first:
+      213: -2879491965018027394
+    second: FondoEstrellas_24
+  - first:
+      213: 4866115247950577300
+    second: FondoEstrellas_25
+  - first:
+      213: 4285236667732036620
+    second: FondoEstrellas_26
+  - first:
+      213: 7087199582261303874
+    second: FondoEstrellas_27
+  - first:
+      213: 3818572691255856299
+    second: FondoEstrellas_28
+  - first:
+      213: -4389351373511792800
+    second: FondoEstrellas_29
+  - first:
+      213: 4381657250605781778
+    second: FondoEstrellas_30
+  - first:
+      213: 5157840231722319490
+    second: FondoEstrellas_31
+  - first:
+      213: -3182127622975515148
+    second: FondoEstrellas_32
+  - first:
+      213: -5723483938527663247
+    second: FondoEstrellas_33
+  - first:
+      213: 3815052508568506908
+    second: FondoEstrellas_34
+  - first:
+      213: -6971703464535386975
+    second: FondoEstrellas_35
+  - first:
+      213: -6951462538807654781
+    second: FondoEstrellas_36
+  - first:
+      213: -8255747371212888939
+    second: FondoEstrellas_37
+  - first:
+      213: -7777656874954415832
+    second: FondoEstrellas_38
+  - first:
+      213: -6689990493846111804
+    second: FondoEstrellas_39
+  - first:
+      213: 3523167774636507878
+    second: FondoEstrellas_40
+  - first:
+      213: -987743953888446598
+    second: FondoEstrellas_41
+  - first:
+      213: 5282161778573364330
+    second: FondoEstrellas_42
+  - first:
+      213: -8717906330071225544
+    second: FondoEstrellas_43
+  - first:
+      213: -1594038449018639977
+    second: FondoEstrellas_44
+  - first:
+      213: 3904709867485942977
+    second: FondoEstrellas_45
+  - first:
+      213: -8133973358782830574
+    second: FondoEstrellas_46
+  - first:
+      213: 5774707030680843172
+    second: FondoEstrellas_47
+  - first:
+      213: -5724727989080525406
+    second: FondoEstrellas_48
+  - first:
+      213: 6663063846542880428
+    second: FondoEstrellas_49
+  - first:
+      213: -6303223067202323473
+    second: FondoEstrellas_50
+  - first:
+      213: -5432432662552380727
+    second: FondoEstrellas_51
+  - first:
+      213: -5924678752109685610
+    second: FondoEstrellas_52
+  - first:
+      213: 7301431100662923418
+    second: FondoEstrellas_53
+  - first:
+      213: 3653409505879669435
+    second: FondoEstrellas_54
+  - first:
+      213: -9173522768946832317
+    second: FondoEstrellas_55
+  - first:
+      213: 4048518709270265027
+    second: FondoEstrellas_56
+  - first:
+      213: 1640208617937371654
+    second: FondoEstrellas_57
+  - first:
+      213: -71205652230709976
+    second: FondoEstrellas_58
+  - first:
+      213: 5127418483334473616
+    second: FondoEstrellas_59
+  - first:
+      213: 7597162675133458322
+    second: FondoEstrellas_60
+  - first:
+      213: 3006122164781684037
+    second: FondoEstrellas_61
+  - first:
+      213: 1917275418007323499
+    second: FondoEstrellas_62
+  - first:
+      213: 7972820693988236590
+    second: FondoEstrellas_63
+  - first:
+      213: -477731802638064987
+    second: FondoEstrellas_64
+  - first:
+      213: -6567785780916806633
+    second: FondoEstrellas_65
+  - first:
+      213: 2786304590261558924
+    second: FondoEstrellas_66
+  - first:
+      213: 791879023008998763
+    second: FondoEstrellas_67
+  - first:
+      213: 4316796805453217810
+    second: FondoEstrellas_68
+  - first:
+      213: 5083892848605891968
+    second: FondoEstrellas_69
+  - first:
+      213: -5253207692273945363
+    second: FondoEstrellas_70
+  - first:
+      213: -3701123581757786581
+    second: FondoEstrellas_71
+  - first:
+      213: 2679977839001196534
+    second: FondoEstrellas_72
+  - first:
+      213: 9092075062545180009
+    second: FondoEstrellas_73
+  - first:
+      213: 7069342115916823683
+    second: FondoEstrellas_74
+  - first:
+      213: 7104914756552855205
+    second: FondoEstrellas_75
+  - first:
+      213: -7127379096555814870
+    second: FondoEstrellas_76
+  - first:
+      213: -7031314436229111344
+    second: FondoEstrellas_77
+  - first:
+      213: 7675808213917486257
+    second: FondoEstrellas_78
+  - first:
+      213: 8744166535276120095
+    second: FondoEstrellas_79
+  - first:
+      213: -3523372697416926543
+    second: FondoEstrellas_80
+  - first:
+      213: -4129446427049424165
+    second: FondoEstrellas_81
+  - first:
+      213: -1680076278518929126
+    second: FondoEstrellas_82
+  - first:
+      213: 2179213157147640971
+    second: FondoEstrellas_83
+  - first:
+      213: -879661938668012870
+    second: FondoEstrellas_84
+  - first:
+      213: -2333059355704744707
+    second: FondoEstrellas_85
+  - first:
+      213: -8366962777030814314
+    second: FondoEstrellas_86
+  - first:
+      213: -5602557283131186511
+    second: FondoEstrellas_87
+  - first:
+      213: -8401330861092526218
+    second: FondoEstrellas_88
+  - first:
+      213: -8941734218922419404
+    second: FondoEstrellas_89
+  - first:
+      213: -2544228634963499037
+    second: FondoEstrellas_90
+  - first:
+      213: 8506961850456061198
+    second: FondoEstrellas_91
+  - first:
+      213: -8569896152885238534
+    second: FondoEstrellas_92
+  - first:
+      213: -5872953830066572956
+    second: FondoEstrellas_93
+  - first:
+      213: 8348223065974927968
+    second: FondoEstrellas_94
+  - first:
+      213: -7855923676410515379
+    second: FondoEstrellas_95
+  - first:
+      213: -5259421714535619529
+    second: FondoEstrellas_96
+  - first:
+      213: -8682429908606130445
+    second: FondoEstrellas_97
+  - first:
+      213: 6486405797968005963
+    second: FondoEstrellas_98
+  - first:
+      213: 5757139765574961321
+    second: FondoEstrellas_99
+  - first:
+      213: 2984199186908683859
+    second: FondoEstrellas_100
+  - first:
+      213: -483961933365903299
+    second: FondoEstrellas_101
+  - first:
+      213: 3040809747981110294
+    second: FondoEstrellas_102
+  - first:
+      213: 8617988294538892053
+    second: FondoEstrellas_103
+  - first:
+      213: -5850843265519140239
+    second: FondoEstrellas_104
+  - first:
+      213: 2153859559059412062
+    second: FondoEstrellas_105
+  - first:
+      213: 6786765008045430839
+    second: FondoEstrellas_106
+  - first:
+      213: -3031086183804827516
+    second: FondoEstrellas_107
+  - first:
+      213: -7001983607719746641
+    second: FondoEstrellas_108
+  - first:
+      213: -4671415689725828088
+    second: FondoEstrellas_109
+  - first:
+      213: -1320224218112190657
+    second: FondoEstrellas_110
+  - first:
+      213: -9191586932849902882
+    second: FondoEstrellas_111
+  - first:
+      213: -6330113109504972936
+    second: FondoEstrellas_112
+  - first:
+      213: 4746960599426887553
+    second: FondoEstrellas_113
+  - first:
+      213: 7447761212034946706
+    second: FondoEstrellas_114
+  - first:
+      213: -3258616537754465652
+    second: FondoEstrellas_115
+  - first:
+      213: -2760263737982629170
+    second: FondoEstrellas_116
+  - first:
+      213: -3731908868423143861
+    second: FondoEstrellas_117
+  - first:
+      213: 2120117339766392193
+    second: FondoEstrellas_118
+  - first:
+      213: 7882635804309594564
+    second: FondoEstrellas_119
+  - first:
+      213: 8375045595670497201
+    second: FondoEstrellas_120
+  - first:
+      213: 6807866798770092717
+    second: FondoEstrellas_121
+  - first:
+      213: -1493712134898408654
+    second: FondoEstrellas_122
+  - first:
+      213: -6891463820486697440
+    second: FondoEstrellas_123
+  - first:
+      213: 9104722177081014442
+    second: FondoEstrellas_124
+  - first:
+      213: -5052164958140122621
+    second: FondoEstrellas_125
+  - first:
+      213: 2345302557037558836
+    second: FondoEstrellas_126
+  - first:
+      213: 3564368351373206963
+    second: FondoEstrellas_127
+  - first:
+      213: 5091553020516714958
+    second: FondoEstrellas_128
+  - first:
+      213: 2596447519242366641
+    second: FondoEstrellas_129
+  - first:
+      213: 4889302503362841533
+    second: FondoEstrellas_130
+  - first:
+      213: -5418354787634373270
+    second: FondoEstrellas_131
+  - first:
+      213: 6190767583167479916
+    second: FondoEstrellas_132
+  - first:
+      213: -8628811465575610181
+    second: FondoEstrellas_133
+  - first:
+      213: -711567676014962910
+    second: FondoEstrellas_134
+  - first:
+      213: -2025326593027412722
+    second: FondoEstrellas_135
+  - first:
+      213: -1066007227091212357
+    second: FondoEstrellas_136
+  - first:
+      213: 5481464047164139091
+    second: FondoEstrellas_137
+  - first:
+      213: 893273193872141199
+    second: FondoEstrellas_138
+  - first:
+      213: 2675207149373386001
+    second: FondoEstrellas_139
+  - first:
+      213: 8590429973428372761
+    second: FondoEstrellas_140
+  - first:
+      213: 6562584462131147174
+    second: FondoEstrellas_141
+  - first:
+      213: -7655393926391087761
+    second: FondoEstrellas_142
+  - first:
+      213: 2582544401924857653
+    second: FondoEstrellas_143
+  - first:
+      213: -4876705317533410910
+    second: FondoEstrellas_144
+  - first:
+      213: -1250988582453177977
+    second: FondoEstrellas_145
+  - first:
+      213: 4988169098379152686
+    second: FondoEstrellas_146
+  - first:
+      213: -543749201808188644
+    second: FondoEstrellas_147
+  - first:
+      213: 6099392197440245229
+    second: FondoEstrellas_148
+  - first:
+      213: 7632395996204322981
+    second: FondoEstrellas_149
+  - first:
+      213: 5494661213887888476
+    second: FondoEstrellas_150
+  - first:
+      213: -8176800180354265216
+    second: FondoEstrellas_151
+  - first:
+      213: -5425099748324967548
+    second: FondoEstrellas_152
+  - first:
+      213: -7500537872022216782
+    second: FondoEstrellas_153
+  - first:
+      213: -2594322276444798660
+    second: FondoEstrellas_154
+  - first:
+      213: 8461233195415032022
+    second: FondoEstrellas_155
+  - first:
+      213: 3787440444696924096
+    second: FondoEstrellas_156
+  - first:
+      213: 3164127630105680927
+    second: FondoEstrellas_157
+  - first:
+      213: -5554473829264359061
+    second: FondoEstrellas_158
+  - first:
+      213: 8525147257438816604
+    second: FondoEstrellas_159
+  - first:
+      213: 93561170790035356
+    second: FondoEstrellas_160
+  - first:
+      213: -3644212881152262701
+    second: FondoEstrellas_161
+  - first:
+      213: -5816791029918777995
+    second: FondoEstrellas_162
+  - first:
+      213: 4058589113411009584
+    second: FondoEstrellas_163
+  - first:
+      213: -7441909010661333060
+    second: FondoEstrellas_164
+  - first:
+      213: -158381344477565607
+    second: FondoEstrellas_165
+  - first:
+      213: -6591007323022607500
+    second: FondoEstrellas_166
+  - first:
+      213: 5798703265409838683
+    second: FondoEstrellas_167
+  - first:
+      213: 7187684048820207898
+    second: FondoEstrellas_168
+  - first:
+      213: -3735186915691768282
+    second: FondoEstrellas_169
+  - first:
+      213: 8176042657639331856
+    second: FondoEstrellas_170
+  - first:
+      213: 9215942963241035802
+    second: FondoEstrellas_171
+  - first:
+      213: -696824534064256452
+    second: FondoEstrellas_172
+  - first:
+      213: -1141568723566533613
+    second: FondoEstrellas_173
+  - first:
+      213: 4238761752573431053
+    second: FondoEstrellas_174
+  - first:
+      213: -5596956646424480162
+    second: FondoEstrellas_175
+  - first:
+      213: 3395204256859082110
+    second: FondoEstrellas_176
+  - first:
+      213: -7979987474685394074
+    second: FondoEstrellas_177
+  - first:
+      213: -4456757311904550215
+    second: FondoEstrellas_178
+  - first:
+      213: 3390462680425414191
+    second: FondoEstrellas_179
+  - first:
+      213: 6569939595342664140
+    second: FondoEstrellas_180
+  - first:
+      213: -674693896085424590
+    second: FondoEstrellas_181
+  - first:
+      213: -411765505893042955
+    second: FondoEstrellas_182
+  - first:
+      213: 152015804941920039
+    second: FondoEstrellas_183
+  - first:
+      213: 9019781171965344329
+    second: FondoEstrellas_184
+  - first:
+      213: -924623292276689547
+    second: FondoEstrellas_185
+  - first:
+      213: 362134404602509986
+    second: FondoEstrellas_186
+  - first:
+      213: -4992813760468219495
+    second: FondoEstrellas_187
+  - first:
+      213: -7567904779711068038
+    second: FondoEstrellas_188
+  - first:
+      213: -1437296702740435365
+    second: FondoEstrellas_189
+  - first:
+      213: 5439279684952951203
+    second: FondoEstrellas_190
+  - first:
+      213: -8443796376496385933
+    second: FondoEstrellas_191
+  - first:
+      213: -237414475414665336
+    second: FondoEstrellas_192
+  - first:
+      213: -6033598439415482014
+    second: FondoEstrellas_193
+  - first:
+      213: 1555534755219896135
+    second: FondoEstrellas_194
+  - first:
+      213: 4193970453869094799
+    second: FondoEstrellas_195
+  - first:
+      213: -4230321371459663069
+    second: FondoEstrellas_196
+  - first:
+      213: 3212675445516146806
+    second: FondoEstrellas_197
+  - first:
+      213: -7186626805830285231
+    second: FondoEstrellas_198
+  - first:
+      213: -4555429382540286523
+    second: FondoEstrellas_199
+  - first:
+      213: 1126173677793394931
+    second: FondoEstrellas_200
+  - first:
+      213: -7991108024202668423
+    second: FondoEstrellas_201
+  - first:
+      213: -8624761057203929237
+    second: FondoEstrellas_202
+  - first:
+      213: -3445319635588744680
+    second: FondoEstrellas_203
+  - first:
+      213: -1643851689949626454
+    second: FondoEstrellas_204
+  - first:
+      213: -7669432272044801762
+    second: FondoEstrellas_205
+  - first:
+      213: 8713731398062577202
+    second: FondoEstrellas_206
+  - first:
+      213: -5981144848657746174
+    second: FondoEstrellas_207
+  - first:
+      213: 829347646431192660
+    second: FondoEstrellas_208
+  - first:
+      213: -9047437410815982823
+    second: FondoEstrellas_209
+  - first:
+      213: 6037450193466477096
+    second: FondoEstrellas_210
+  - first:
+      213: -6147298434435673212
+    second: FondoEstrellas_211
+  - first:
+      213: -7822617146895092768
+    second: FondoEstrellas_212
+  - first:
+      213: 6569409511059281409
+    second: FondoEstrellas_213
+  - first:
+      213: 4485173677877369289
+    second: FondoEstrellas_214
+  - first:
+      213: -2896840887774793183
+    second: FondoEstrellas_215
+  - first:
+      213: 4315993496618364356
+    second: FondoEstrellas_216
+  - first:
+      213: -4204168820273634329
+    second: FondoEstrellas_217
+  - first:
+      213: -9156585675149088904
+    second: FondoEstrellas_218
+  - first:
+      213: 2661878813934127643
+    second: FondoEstrellas_219
+  - first:
+      213: -1570202750185211989
+    second: FondoEstrellas_220
+  - first:
+      213: -6906995141804074652
+    second: FondoEstrellas_221
+  - first:
+      213: -2511920010000406795
+    second: FondoEstrellas_222
+  - first:
+      213: -6611882126734913600
+    second: FondoEstrellas_223
+  - first:
+      213: -6419624365877147346
+    second: FondoEstrellas_224
+  - first:
+      213: -9164198152291241229
+    second: FondoEstrellas_225
+  - first:
+      213: 254088612518241427
+    second: FondoEstrellas_226
+  - first:
+      213: 6618772145181443653
+    second: FondoEstrellas_227
+  - first:
+      213: -4484264222104479054
+    second: FondoEstrellas_228
+  - first:
+      213: 1176877891809025690
+    second: FondoEstrellas_229
+  - first:
+      213: 8873069578334314469
+    second: FondoEstrellas_230
+  - first:
+      213: -8787258009700101733
+    second: FondoEstrellas_231
+  - first:
+      213: 4589962103146031531
+    second: FondoEstrellas_232
+  - first:
+      213: 9068677891030651507
+    second: FondoEstrellas_233
+  - first:
+      213: -8519121412971949952
+    second: FondoEstrellas_234
+  - first:
+      213: 6801579856601152964
+    second: FondoEstrellas_235
+  - first:
+      213: -1003170475038532064
+    second: FondoEstrellas_236
+  - first:
+      213: -1505322088550653635
+    second: FondoEstrellas_237
+  - first:
+      213: -1549095540744178974
+    second: FondoEstrellas_238
+  - first:
+      213: -1701456857728421489
+    second: FondoEstrellas_239
+  - first:
+      213: 6238405766329490087
+    second: FondoEstrellas_240
+  - first:
+      213: 5583067140747556446
+    second: FondoEstrellas_241
+  - first:
+      213: 7738235189163343810
+    second: FondoEstrellas_242
+  - first:
+      213: -6433562727706208023
+    second: FondoEstrellas_243
+  - first:
+      213: -3956985735027481752
+    second: FondoEstrellas_244
+  - first:
+      213: 1671506418314389447
+    second: FondoEstrellas_245
+  - first:
+      213: -2192696531805970371
+    second: FondoEstrellas_246
+  - first:
+      213: -8780613473328945978
+    second: FondoEstrellas_247
+  - first:
+      213: 8619160088476039267
+    second: FondoEstrellas_248
+  - first:
+      213: -607950651118584888
+    second: FondoEstrellas_249
+  - first:
+      213: -1173260834387791224
+    second: FondoEstrellas_250
+  - first:
+      213: 4262916669762611851
+    second: FondoEstrellas_251
+  - first:
+      213: 1961990188448332740
+    second: FondoEstrellas_252
+  - first:
+      213: -6023656080711990557
+    second: FondoEstrellas_253
+  - first:
+      213: 1496332715345561546
+    second: FondoEstrellas_254
+  - first:
+      213: -6134565194865187539
+    second: FondoEstrellas_255
+  - first:
+      213: 3739525766514359159
+    second: FondoEstrellas_256
+  - first:
+      213: 5106486457618757760
+    second: FondoEstrellas_257
+  - first:
+      213: -5385815698744658730
+    second: FondoEstrellas_258
+  - first:
+      213: -8189111946147901211
+    second: FondoEstrellas_259
+  - first:
+      213: -7650102404812477629
+    second: FondoEstrellas_260
+  - first:
+      213: -1417362935945150818
+    second: FondoEstrellas_261
+  - first:
+      213: -7660187824348540696
+    second: FondoEstrellas_262
+  - first:
+      213: -4468279196587972806
+    second: FondoEstrellas_263
+  - first:
+      213: -8966897686818065649
+    second: FondoEstrellas_264
+  - first:
+      213: -8733963597683665718
+    second: FondoEstrellas_265
+  - first:
+      213: 7173059174506591439
+    second: FondoEstrellas_266
+  - first:
+      213: -6074870576834848404
+    second: FondoEstrellas_267
+  - first:
+      213: -2448192263130519762
+    second: FondoEstrellas_268
+  - first:
+      213: -7761435799905909929
+    second: FondoEstrellas_269
+  - first:
+      213: 8145711989937525393
+    second: FondoEstrellas_270
+  - first:
+      213: 3135765156703075138
+    second: FondoEstrellas_271
+  - first:
+      213: -3900429974351542041
+    second: FondoEstrellas_272
+  - first:
+      213: -1095620630881921550
+    second: FondoEstrellas_273
+  - first:
+      213: 6515696360755234364
+    second: FondoEstrellas_274
+  - first:
+      213: 7206646710902069782
+    second: FondoEstrellas_275
+  - first:
+      213: 1578976054131410551
+    second: FondoEstrellas_276
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FondoEstrellas_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 852
+        width: 22
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d089f3ac9caaf2e30800000000000000
+      internalID: 4480987937915246605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 910
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d01f7aca30a018e0800000000000000
+      internalID: -1724702482917027623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 705
+        width: 65
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649c611ad2f199a30800000000000000
+      internalID: 4222440406473165126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 960
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f80970aae023100800000000000000
+      internalID: 86147466307604245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 919
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea723d0b2d2da0d0800000000000000
+      internalID: -3410019679921341723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 907
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827493fd6c7d01830800000000000000
+      internalID: 4039966114899904296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 951
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14072ea2c8e636fa0800000000000000
+      internalID: -5808677546083848127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 950
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945f7c8b77df87fd0800000000000000
+      internalID: -2343844915403295415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 496
+        width: 100
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3672c03c3757d6a50800000000000000
+      internalID: 6515993375929018211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 904
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5ee90fc6faf0050800000000000000
+      internalID: 5769022530113168825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 930
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c806661aff736cb0800000000000000
+      internalID: -4871909659790407482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 963
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f93d0a9acf983b0800000000000000
+      internalID: -5509594863633195194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_12
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 875
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a20e6046be8afdf0800000000000000
+      internalID: -145647124519976280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 935
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3458d73b4942ce40800000000000000
+      internalID: 5675179067848545342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_14
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 903
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18f44a6d6de35670800000000000000
+      internalID: 8526419573732603933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_15
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 920
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e3ceec6eaa74600800000000000000
+      internalID: 452518195864813160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_16
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 913
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56080fd2fded7ab00800000000000000
+      internalID: 839884905657696357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 921
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b05825ba65ac7db0800000000000000
+      internalID: -4792774025704615758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_18
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 881
+        width: 12
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f985d38fe1b66a80800000000000000
+      internalID: -8473890006583899659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_19
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1
+        width: 88
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e8b19c0a015af60800000000000000
+      internalID: 8044854592122097169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_20
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 943
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157347a9dd9a6b190800000000000000
+      internalID: -7946977723204487343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_21
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1
+        width: 312
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d1d3bddb0fcf340800000000000000
+      internalID: 4899055192889957656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_22
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 912
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c14ab08858f36780800000000000000
+      internalID: -8690829796894424632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_23
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 947
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a414c01ffc717d0800000000000000
+      internalID: -2947658796891026889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_24
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 935
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a4283605df908d0800000000000000
+      internalID: -2879491965018027394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 923
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eb436490ae78340800000000000000
+      internalID: 4866115247950577300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_26
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 920
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c85ae8b08387b30800000000000000
+      internalID: 4285236667732036620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_27
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 927
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a5bf0787aca5260800000000000000
+      internalID: 7087199582261303874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_28
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 962
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac005b81ab4ef430800000000000000
+      internalID: 3818572691255856299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_29
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 904
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067e47b7e24e513c0800000000000000
+      internalID: -4389351373511792800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_30
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 953
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2135fdded06cecc30800000000000000
+      internalID: 4381657250605781778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_31
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 915
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ef6040d54549740800000000000000
+      internalID: 5157840231722319490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_32
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 887
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5169a59cfc6d3d0800000000000000
+      internalID: -3182127622975515148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_33
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 800
+        width: 37
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba766aea91290b0800000000000000
+      internalID: -5723483938527663247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_34
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 914
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1250b42b0ac1f430800000000000000
+      internalID: 3815052508568506908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 723
+        width: 50
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4120df2a88f3f90800000000000000
+      internalID: -6971703464535386975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 903
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3864fe0c6a1778f90800000000000000
+      internalID: -6951462538807654781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 843
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594ad77b181bd6d80800000000000000
+      internalID: -8255747371212888939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 853
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821a77fa746301490800000000000000
+      internalID: -7777656874954415832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_39
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 870
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ff8747116823a0800000000000000
+      internalID: -6689990493846111804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_40
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 864
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2005bac6ec4e030800000000000000
+      internalID: 3523167774636507878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_41
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 849
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7770737b14da42f0800000000000000
+      internalID: -987743953888446598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_42
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 891
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cc20ac6220e4940800000000000000
+      internalID: 5282161778573364330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_43
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 879
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba9fad166c30780800000000000000
+      internalID: -8717906330071225544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 879
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ede7e976d0e9e0800000000000000
+      internalID: -1594038449018639977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_45
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 880
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4567abfe0503630800000000000000
+      internalID: 3904709867485942977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_46
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 856
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218224963525e1f80800000000000000
+      internalID: -8133973358782830574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_47
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 852
+        width: 87
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3beadd271e32050800000000000000
+      internalID: 5774707030680843172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 785
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a57e1f893ead80b0800000000000000
+      internalID: -5724727989080525406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 861
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeafe81445f77c50800000000000000
+      internalID: 6663063846542880428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_50
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 758
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb7b5b24047688a0800000000000000
+      internalID: -6303223067202323473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_51
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 871
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf552964f1c94b0800000000000000
+      internalID: -5432432662552380727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 801
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6949234b01057cda0800000000000000
+      internalID: -5924678752109685610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_53
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 774
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90c003c6e4e35560800000000000000
+      internalID: 7301431100662923418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_54
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 779
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba3ef8c69483b230800000000000000
+      internalID: 3653409505879669435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 803
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c57f125a911b080800000000000000
+      internalID: -9173522768946832317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_56
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 821
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccb39ce05a3f2830800000000000000
+      internalID: 4048518709270265027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_57
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 685
+        width: 79
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60201bd3c0133c610800000000000000
+      internalID: 1640208617937371654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_58
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 809
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dd9c826d6030ff0800000000000000
+      internalID: -71205652230709976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_59
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 829
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0976ce1c1ff382740800000000000000
+      internalID: 5127418483334473616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_60
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 801
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297af28933b8e6960800000000000000
+      internalID: 7597162675133458322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_61
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 792
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5459d378e24e7b920800000000000000
+      internalID: 3006122164781684037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 612
+        width: 37
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b634ae2a5d78b9a10800000000000000
+      internalID: 1917275418007323499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 807
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5d0bed2625ae60800000000000000
+      internalID: 7972820693988236590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_64
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 807
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2e9d5e471ce59f0800000000000000
+      internalID: -477731802638064987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_65
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 799
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c979f31a98ad4a0800000000000000
+      internalID: -6567785780916806633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_66
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 803
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e949a2341faa620800000000000000
+      internalID: 2786304590261558924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_67
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 735
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65e88f96c15dfa00800000000000000
+      internalID: 791879023008998763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_68
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210849cb2d758eb30800000000000000
+      internalID: 4316796805453217810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 505
+        width: 78
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d8d453c9d9d8640800000000000000
+      internalID: 5083892848605891968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_70
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 759
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de479a2cf6bd817b0800000000000000
+      internalID: -5253207692273945363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_71
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 783
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26718736b7f2acc0800000000000000
+      internalID: -3701123581757786581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_72
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 767
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7d59b35a1313520800000000000000
+      internalID: 2679977839001196534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_73
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 768
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9656136f81a8d2e70800000000000000
+      internalID: 9092075062545180009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_74
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 751
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c3eee03395b1260800000000000000
+      internalID: 7069342115916823683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_75
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 707
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae83cfd35ab99260800000000000000
+      internalID: 7104914756552855205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_76
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 767
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a200f326976761d90800000000000000
+      internalID: -7127379096555814870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_77
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 761
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1ec7416c0cb6e90800000000000000
+      internalID: -7031314436229111344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_78
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 769
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcc39207e2f58a60800000000000000
+      internalID: 7675808213917486257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_79
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 708
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18cdff9225895970800000000000000
+      internalID: 8744166535276120095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_80
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 775
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba772703377a1fc0800000000000000
+      internalID: -3523372697416926543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_81
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 742
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda86b47a5241b6c0800000000000000
+      internalID: -4129446427049424165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_82
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 688
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19a15fa68b2fa8e0800000000000000
+      internalID: -1680076278518929126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_83
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 775
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8484a902de1e3e10800000000000000
+      internalID: 2179213157147640971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_84
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 731
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaf24f9020dac3f0800000000000000
+      internalID: -879661938668012870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_85
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 612
+        width: 36
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4215780ee4f9fd0800000000000000
+      internalID: -2333059355704744707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_86
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 751
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69599223fa392eb80800000000000000
+      internalID: -8366962777030814314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_87
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 718
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b22039a5d7bf32b0800000000000000
+      internalID: -5602557283131186511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_88
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 748
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677ad00181a786b80800000000000000
+      internalID: -8401330861092526218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_89
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 751
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b9c2d6a1498e380800000000000000
+      internalID: -8941734218922419404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_90
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 751
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7af91598511bcd0800000000000000
+      internalID: -2544228634963499037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_91
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 718
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05bb3e2bbcce0670800000000000000
+      internalID: 8506961850456061198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_92
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 736
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4e94daadc911980800000000000000
+      internalID: -8569896152885238534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_93
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 720
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461bc989b931f7ea0800000000000000
+      internalID: -5872953830066572956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_94
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 719
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0627821d5a8dad370800000000000000
+      internalID: 8348223065974927968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_95
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 636
+        width: 14
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4078fce9072af290800000000000000
+      internalID: -7855923676410515379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_96
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 615
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734e025f0d7c207b0800000000000000
+      internalID: -5259421714535619529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_97
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 667
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6ed46efffc18780800000000000000
+      internalID: -8682429908606130445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_98
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 722
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bcae0f4b7540a50800000000000000
+      internalID: 6486405797968005963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_99
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 712
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a80f593d1875ef40800000000000000
+      internalID: 5757139765574961321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_100
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 691
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e93ba79510a6920800000000000000
+      internalID: 2984199186908683859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_101
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 679
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d300aec8f2f9849f0800000000000000
+      internalID: -483961933365903299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_102
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 694
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c85f9da50233a20800000000000000
+      internalID: 3040809747981110294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_103
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 684
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513177e91be399770800000000000000
+      internalID: 8617988294538892053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_104
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 539
+        width: 78
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172ce329c01adcea0800000000000000
+      internalID: -5850843265519140239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 707
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54d0d97bdb04ed10800000000000000
+      internalID: 2153859559059412062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_106
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 62
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738599621de6f2e50800000000000000
+      internalID: 6786765008045430839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_107
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 695
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48808badc2b6fe5d0800000000000000
+      internalID: -3031086183804827516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_108
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 670
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3a1c2c105f3de90800000000000000
+      internalID: -7001983607719746641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_109
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 675
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804a4bf2e2ccb2fb0800000000000000
+      internalID: -4671415689725828088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_110
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 670
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f371e87811f9dade0800000000000000
+      internalID: -1320224218112190657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_111
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 606
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edafb59326ce07080800000000000000
+      internalID: -9191586932849902882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_112
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 655
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877a9ef4aabe628a0800000000000000
+      internalID: -6330113109504972936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_113
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 673
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f6d93c38790e140800000000000000
+      internalID: 4746960599426887553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_114
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 680
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2969647cc53cb5760800000000000000
+      internalID: 7447761212034946706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_115
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 671
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8ee7168117c2d0800000000000000
+      internalID: -3258616537754465652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_116
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 664
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca472b31c291b9d0800000000000000
+      internalID: -2760263737982629170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_117
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 400
+        width: 52
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e228b18a8953cc0800000000000000
+      internalID: -3731908868423143861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_118
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 654
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1850ce6dc7b2c6d10800000000000000
+      internalID: 2120117339766392193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_119
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 615
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c126a1008fb46d60800000000000000
+      internalID: 7882635804309594564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_120
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 667
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c3aba8932a3470800000000000000
+      internalID: 8375045595670497201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_121
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 671
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daafddaa8c66a7e50800000000000000
+      internalID: 6807866798770092717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 611
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a0b23ab4454be0800000000000000
+      internalID: -1493712134898408654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 616
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e1f65fa2a9c50a0800000000000000
+      internalID: -6891463820486697440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_124
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 641
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f887c4987a5e70800000000000000
+      internalID: 9104722177081014442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_125
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 539
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ab163fcba13e9b0800000000000000
+      internalID: -5052164958140122621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_126
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 607
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cf90bef303c8020800000000000000
+      internalID: 2345302557037558836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_127
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 608
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5ae38712e277130800000000000000
+      internalID: 3564368351373206963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 623
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec947f6fe74d8a640800000000000000
+      internalID: 5091553020516714958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_129
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 591
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bea26e134f680420800000000000000
+      internalID: 2596447519242366641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_130
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 645
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbce50e8ba4ad340800000000000000
+      internalID: 4889302503362841533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_131
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 616
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d140047032ec4b0800000000000000
+      internalID: -5418354787634373270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_132
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 537
+        width: 34
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6083b911560ae550800000000000000
+      internalID: 6190767583167479916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_133
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 630
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb84c8080bd404880800000000000000
+      internalID: -8628811465575610181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_134
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 587
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2275a7df7f00026f0800000000000000
+      internalID: -711567676014962910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_135
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 627
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de27cb13894e3e0800000000000000
+      internalID: -2025326593027412722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_136
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 627
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7aa3d2318c431f0800000000000000
+      internalID: -1066007227091212357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_137
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 584
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3562b444282121c40800000000000000
+      internalID: 5481464047164139091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_138
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 611
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ba020bc3b856c00800000000000000
+      internalID: 893273193872141199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_139
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 584
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d6cfe7abe302520800000000000000
+      internalID: 2675207149373386001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_140
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 496
+        width: 138
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915011afb86573770800000000000000
+      internalID: 8590429973428372761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_141
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 623
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a133d95ccbf21b50800000000000000
+      internalID: 6562584462131147174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_142
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 583
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6db6c1b8c392c590800000000000000
+      internalID: -7655393926391087761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_143
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 203
+        width: 99
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f976d537a07d320800000000000000
+      internalID: 2582544401924857653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_144
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 587
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a999220a56725cb0800000000000000
+      internalID: -4876705317533410910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_145
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 594
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7811fc4238893aee0800000000000000
+      internalID: -1250988582453177977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_146
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 586
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4874dd59893540800000000000000
+      internalID: 4988169098379152686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_147
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 585
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b125b5bf63478f0800000000000000
+      internalID: -543749201808188644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_148
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 320
+        width: 28
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded073a33e465a450800000000000000
+      internalID: 6099392197440245229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_149
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 565
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a05fda68b7bbe960800000000000000
+      internalID: 7632395996204322981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_150
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 542
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c77e61345f04c40800000000000000
+      internalID: 5494661213887888476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_151
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 575
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f42aafe8b268e80800000000000000
+      internalID: -8176800180354265216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_152
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 561
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b7706b58c26b4b0800000000000000
+      internalID: -5425099748324967548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_153
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 144
+        width: 51
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf50c18b8cb8e790800000000000000
+      internalID: -7500537872022216782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_154
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 555
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3100a782ad1ffbd0800000000000000
+      internalID: -2594322276444798660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_155
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 560
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0d47ef2c65c6570800000000000000
+      internalID: 8461233195415032022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_156
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 559
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf8b1a8401bf8430800000000000000
+      internalID: 3787440444696924096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_157
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 494
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c9278b05d39eb20800000000000000
+      internalID: 3164127630105680927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_158
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 564
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b618e7c2b7b8ae2b0800000000000000
+      internalID: -5554473829264359061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_159
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 528
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59498133486f4670800000000000000
+      internalID: 8525147257438816604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_160
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 549
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fa5bd93656c4100800000000000000
+      internalID: 93561170790035356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_161
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 535
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd340541b72d6dc0800000000000000
+      internalID: -3644212881152262701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_162
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 519
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d3301806b964fa0800000000000000
+      internalID: -5816791029918777995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_163
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 531
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c712a9b41035830800000000000000
+      internalID: 4058589113411009584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_164
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 486
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7a0c80f2709b890800000000000000
+      internalID: -7441909010661333060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_165
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 528
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dad5f91015dcdf0800000000000000
+      internalID: -158381344477565607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_166
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 531
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b3d37a2c90884a0800000000000000
+      internalID: -6591007323022607500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_167
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 527
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ea6a4a5e1297050800000000000000
+      internalID: 5798703265409838683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_168
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 527
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a118ba77f88cfb360800000000000000
+      internalID: 7187684048820207898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_169
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 80
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62651804a43f92cc0800000000000000
+      internalID: -3735186915691768282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_170
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 439
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01878058a73277170800000000000000
+      internalID: 8176042657639331856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_171
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 424
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a182e320c4b95ef70800000000000000
+      internalID: 9215942963241035802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_172
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 463
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aa25837c16456f0800000000000000
+      internalID: -696824534064256452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_173
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 431
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314ee115b455820f0800000000000000
+      internalID: -1141568723566533613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_174
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 379
+        width: 37
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dc6a52b5b13da30800000000000000
+      internalID: 4238761752573431053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_175
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 497
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e567b92859d9352b0800000000000000
+      internalID: -5596956646424480162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_176
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 431
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dcaf578403e1f20800000000000000
+      internalID: 3395204256859082110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_177
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 471
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6638f4beba3614190800000000000000
+      internalID: -7979987474685394074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_178
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 437
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2fdc576da6622c0800000000000000
+      internalID: -4456757311904550215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_179
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 345
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eb9fa28d75d0f20800000000000000
+      internalID: 3390462680425414191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_180
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 432
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc15c20c04d1d2b50800000000000000
+      internalID: 6569939595342664140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_181
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 448
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23634b7e97103a6f0800000000000000
+      internalID: -674693896085424590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_182
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 461
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f47c7a347d194af0800000000000000
+      internalID: -411765505893042955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_183
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 206
+        width: 150
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727eec5b1911c1200800000000000000
+      internalID: 152015804941920039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_184
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 447
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a30c2ef23bc2d70800000000000000
+      internalID: 9019781171965344329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_185
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 457
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575bbc8b3041b23f0800000000000000
+      internalID: -924623292276689547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_186
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 385
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aab743825f860500800000000000000
+      internalID: 362134404602509986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_187
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 387
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9990c918656f5bab0800000000000000
+      internalID: -4992813760468219495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_188
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 463
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78475703b669f690800000000000000
+      internalID: -7567904779711068038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_189
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 442
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ee0549342bd0ce0800000000000000
+      internalID: -1437296702740435365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_190
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 445
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a98e9f0e043c7b40800000000000000
+      internalID: 5439279684952951203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_191
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 353
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d337ceeb91da80800000000000000
+      internalID: -8443796376496385933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_192
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 493
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8878f50eac884bcf0800000000000000
+      internalID: -237414475414665336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_193
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 400
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269f94dcf2a544ca0800000000000000
+      internalID: -6033598439415482014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_194
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 326
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f7a84e9e569510800000000000000
+      internalID: 1555534755219896135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_195
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 472
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87e95d38e9f33a30800000000000000
+      internalID: 4193970453869094799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_196
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 406
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b47683021ea45c0800000000000000
+      internalID: -4230321371459663069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_197
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 400
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6781c94db47b59c20800000000000000
+      internalID: 3212675445516146806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_198
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 445
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588f291ff8f34c90800000000000000
+      internalID: -7186626805830285231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_199
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 371
+        width: 55
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52f4ebc1dd7c0c0800000000000000
+      internalID: -4555429382540286523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_200
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 480
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f045444ef8f0af00800000000000000
+      internalID: 1126173677793394931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_201
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 321
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97650a73791e91190800000000000000
+      internalID: -7991108024202668423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_202
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 425
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fbcb0b381be4880800000000000000
+      internalID: -8624761057203929237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_203
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 487
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81afd07ab04cf20d0800000000000000
+      internalID: -3445319635588744680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_204
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 403
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf7025f89ddf29e0800000000000000
+      internalID: -1643851689949626454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_205
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 381
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e114ad3abf3b09590800000000000000
+      internalID: -7669432272044801762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_206
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 398
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23610b90a846de870800000000000000
+      internalID: 8713731398062577202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_207
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 453
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207f8991374befca0800000000000000
+      internalID: -5981144848657746174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_208
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 399
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45666d45a4f628b00800000000000000
+      internalID: 829347646431192660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_209
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 416
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913cbb83c9b017280800000000000000
+      internalID: -9047437410815982823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_210
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 499
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82acea296f459c350800000000000000
+      internalID: 6037450193466477096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_211
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 472
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4839527c4a860baa0800000000000000
+      internalID: -6147298434435673212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_212
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 488
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e33071a62b707390800000000000000
+      internalID: -7822617146895092768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_213
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 395
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106d2c2e42b3b2b50800000000000000
+      internalID: 6569409511059281409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_214
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 462
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c910d152b98e3e30800000000000000
+      internalID: 4485173677877369289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_215
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 384
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1223b598f8a5cc7d0800000000000000
+      internalID: -2896840887774793183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_216
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 387
+        width: 125
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd65d2d73d75eb30800000000000000
+      internalID: 4315993496618364356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_217
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 368
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e321db8bbac7a5c0800000000000000
+      internalID: -4204168820273634329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_218
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 405
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877ee4597d54de080800000000000000
+      internalID: -9156585675149088904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_219
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 353
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a8ea39da4e0f420800000000000000
+      internalID: 2661878813934127643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_220
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 237
+        width: 58
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba77ed10be4853ae0800000000000000
+      internalID: -1570202750185211989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_221
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 244
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4695b6b638c6520a0800000000000000
+      internalID: -6906995141804074652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_222
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 343
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6eab34f0ed32dd0800000000000000
+      internalID: -2511920010000406795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_223
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 356
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf063bac30ed34a0800000000000000
+      internalID: -6611882126734913600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_224
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 327
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e294370e6a9e8e6a0800000000000000
+      internalID: -6419624365877147346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_225
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 283
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b361a55a32d080800000000000000
+      internalID: -9164198152291241229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_226
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 312
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3942f923f34b68300800000000000000
+      internalID: 254088612518241427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_227
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 332
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5464ac2c23a9adb50800000000000000
+      internalID: 6618772145181443653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_228
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 335
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba187ad271b4c1c0800000000000000
+      internalID: -4484264222104479054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_229
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 295
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e994d053c155010800000000000000
+      internalID: 1176877891809025690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_230
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 247
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef11fb15c9732b70800000000000000
+      internalID: 8873069578334314469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_231
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 195
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b919e16a5636d0680800000000000000
+      internalID: -8787258009700101733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_232
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 120
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba92682d632d2bf30800000000000000
+      internalID: 4589962103146031531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_233
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 235
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37212557e7a6add70800000000000000
+      internalID: 9068677891030651507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_234
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 290
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080126d063006c980800000000000000
+      internalID: -8519121412971949952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_235
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 200
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdf920e7d0146e50800000000000000
+      internalID: 6801579856601152964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_236
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 254
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e1b2a94c50412f0800000000000000
+      internalID: -1003170475038532064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_237
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 171
+        width: 14
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31a36739850c1be0800000000000000
+      internalID: -1505322088550653635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_238
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1
+        width: 195
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e23dca20d1808ae0800000000000000
+      internalID: -1549095540744178974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_239
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 288
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81f17aa0063368e0800000000000000
+      internalID: -1701456857728421489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_240
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 208
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa51d2fdf4439650800000000000000
+      internalID: 6238405766329490087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_241
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56f961fbf90b7d40800000000000000
+      internalID: 5583067140747556446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_242
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 159
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf3286d7ebb36b60800000000000000
+      internalID: 7738235189163343810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_243
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 157
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8d0ee19c467b6a0800000000000000
+      internalID: -6433562727706208023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_244
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 169
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86326626076f519c0800000000000000
+      internalID: -3956985735027481752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_245
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 226
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c72a6f3b32623710800000000000000
+      internalID: 1671506418314389447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_246
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3
+        width: 68
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3069792f1af191e0800000000000000
+      internalID: -2192696531805970371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_247
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 129
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c42834519ef42680800000000000000
+      internalID: -8780613473328945978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_248
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 208
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368b6d72f686d9770800000000000000
+      internalID: 8619160088476039267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_249
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 200
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbfb179a102097f0800000000000000
+      internalID: -607950651118584888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_250
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 72
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882ff61cc7db7bfe0800000000000000
+      internalID: -1173260834387791224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_251
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aaa40102ce82b30800000000000000
+      internalID: 4262916669762611851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_252
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 226
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb34b6ea36a3b10800000000000000
+      internalID: 1961990188448332740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_253
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 179
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e24a0495bca76ca0800000000000000
+      internalID: -6023656080711990557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_254
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1
+        width: 84
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c7fb3daa04c410800000000000000
+      internalID: 1496332715345561546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_255
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 177
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25e5942575addaa0800000000000000
+      internalID: -6134565194865187539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_256
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 79
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b328d2fd675e330800000000000000
+      internalID: 3739525766514359159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_257
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1
+        width: 35
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08875bcb062edd640800000000000000
+      internalID: 5106486457618757760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_258
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 249
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d43a92482db145b0800000000000000
+      internalID: -5385815698744658730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_259
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 150
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e052ff921e6a5e80800000000000000
+      internalID: -8189111946147901211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_260
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 290
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b6ac1156065d590800000000000000
+      internalID: -7650102404812477629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_261
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 185
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e3f255be3845ce0800000000000000
+      internalID: -1417362935945150818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_262
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 247
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0dee852cb81b590800000000000000
+      internalID: -7660187824348540696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_263
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 314
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a372b12aebb7df1c0800000000000000
+      internalID: -4468279196587972806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_264
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 123
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ffefff0e2f8380800000000000000
+      internalID: -8966897686818065649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_265
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 275
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac45fd6e16abac680800000000000000
+      internalID: -8733963597683665718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_266
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 225
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc472519053db8360800000000000000
+      internalID: 7173059174506591439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_267
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69594b7569b1bba0800000000000000
+      internalID: -6074870576834848404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_268
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 243
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27ee369b16460ed0800000000000000
+      internalID: -2448192263130519762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_269
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 256
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753cb970347d94490800000000000000
+      internalID: -7761435799905909929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_270
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192ddd2a5e16b0170800000000000000
+      internalID: 8145711989937525393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_271
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 180
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7558cbc9748b20800000000000000
+      internalID: 3135765156703075138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_272
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e88d7b8a93eed9c0800000000000000
+      internalID: -3900429974351542041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_273
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 191
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f591bf47d29bc0f0800000000000000
+      internalID: -1095620630881921550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_274
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 185
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c360f1781576c6a50800000000000000
+      internalID: 6515696360755234364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_275
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 17
+        width: 109
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a1e094007230460800000000000000
+      internalID: 7206646710902069782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoEstrellas_276
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 260
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776c95ffa56a9e510800000000000000
+      internalID: 1578976054131410551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FondoEstrellas_0: 4480987937915246605
+      FondoEstrellas_1: -1724702482917027623
+      FondoEstrellas_10: -4871909659790407482
+      FondoEstrellas_100: 2984199186908683859
+      FondoEstrellas_101: -483961933365903299
+      FondoEstrellas_102: 3040809747981110294
+      FondoEstrellas_103: 8617988294538892053
+      FondoEstrellas_104: -5850843265519140239
+      FondoEstrellas_105: 2153859559059412062
+      FondoEstrellas_106: 6786765008045430839
+      FondoEstrellas_107: -3031086183804827516
+      FondoEstrellas_108: -7001983607719746641
+      FondoEstrellas_109: -4671415689725828088
+      FondoEstrellas_11: -5509594863633195194
+      FondoEstrellas_110: -1320224218112190657
+      FondoEstrellas_111: -9191586932849902882
+      FondoEstrellas_112: -6330113109504972936
+      FondoEstrellas_113: 4746960599426887553
+      FondoEstrellas_114: 7447761212034946706
+      FondoEstrellas_115: -3258616537754465652
+      FondoEstrellas_116: -2760263737982629170
+      FondoEstrellas_117: -3731908868423143861
+      FondoEstrellas_118: 2120117339766392193
+      FondoEstrellas_119: 7882635804309594564
+      FondoEstrellas_12: -145647124519976280
+      FondoEstrellas_120: 8375045595670497201
+      FondoEstrellas_121: 6807866798770092717
+      FondoEstrellas_122: -1493712134898408654
+      FondoEstrellas_123: -6891463820486697440
+      FondoEstrellas_124: 9104722177081014442
+      FondoEstrellas_125: -5052164958140122621
+      FondoEstrellas_126: 2345302557037558836
+      FondoEstrellas_127: 3564368351373206963
+      FondoEstrellas_128: 5091553020516714958
+      FondoEstrellas_129: 2596447519242366641
+      FondoEstrellas_13: 5675179067848545342
+      FondoEstrellas_130: 4889302503362841533
+      FondoEstrellas_131: -5418354787634373270
+      FondoEstrellas_132: 6190767583167479916
+      FondoEstrellas_133: -8628811465575610181
+      FondoEstrellas_134: -711567676014962910
+      FondoEstrellas_135: -2025326593027412722
+      FondoEstrellas_136: -1066007227091212357
+      FondoEstrellas_137: 5481464047164139091
+      FondoEstrellas_138: 893273193872141199
+      FondoEstrellas_139: 2675207149373386001
+      FondoEstrellas_14: 8526419573732603933
+      FondoEstrellas_140: 8590429973428372761
+      FondoEstrellas_141: 6562584462131147174
+      FondoEstrellas_142: -7655393926391087761
+      FondoEstrellas_143: 2582544401924857653
+      FondoEstrellas_144: -4876705317533410910
+      FondoEstrellas_145: -1250988582453177977
+      FondoEstrellas_146: 4988169098379152686
+      FondoEstrellas_147: -543749201808188644
+      FondoEstrellas_148: 6099392197440245229
+      FondoEstrellas_149: 7632395996204322981
+      FondoEstrellas_15: 452518195864813160
+      FondoEstrellas_150: 5494661213887888476
+      FondoEstrellas_151: -8176800180354265216
+      FondoEstrellas_152: -5425099748324967548
+      FondoEstrellas_153: -7500537872022216782
+      FondoEstrellas_154: -2594322276444798660
+      FondoEstrellas_155: 8461233195415032022
+      FondoEstrellas_156: 3787440444696924096
+      FondoEstrellas_157: 3164127630105680927
+      FondoEstrellas_158: -5554473829264359061
+      FondoEstrellas_159: 8525147257438816604
+      FondoEstrellas_16: 839884905657696357
+      FondoEstrellas_160: 93561170790035356
+      FondoEstrellas_161: -3644212881152262701
+      FondoEstrellas_162: -5816791029918777995
+      FondoEstrellas_163: 4058589113411009584
+      FondoEstrellas_164: -7441909010661333060
+      FondoEstrellas_165: -158381344477565607
+      FondoEstrellas_166: -6591007323022607500
+      FondoEstrellas_167: 5798703265409838683
+      FondoEstrellas_168: 7187684048820207898
+      FondoEstrellas_169: -3735186915691768282
+      FondoEstrellas_17: -4792774025704615758
+      FondoEstrellas_170: 8176042657639331856
+      FondoEstrellas_171: 9215942963241035802
+      FondoEstrellas_172: -696824534064256452
+      FondoEstrellas_173: -1141568723566533613
+      FondoEstrellas_174: 4238761752573431053
+      FondoEstrellas_175: -5596956646424480162
+      FondoEstrellas_176: 3395204256859082110
+      FondoEstrellas_177: -7979987474685394074
+      FondoEstrellas_178: -4456757311904550215
+      FondoEstrellas_179: 3390462680425414191
+      FondoEstrellas_18: -8473890006583899659
+      FondoEstrellas_180: 6569939595342664140
+      FondoEstrellas_181: -674693896085424590
+      FondoEstrellas_182: -411765505893042955
+      FondoEstrellas_183: 152015804941920039
+      FondoEstrellas_184: 9019781171965344329
+      FondoEstrellas_185: -924623292276689547
+      FondoEstrellas_186: 362134404602509986
+      FondoEstrellas_187: -4992813760468219495
+      FondoEstrellas_188: -7567904779711068038
+      FondoEstrellas_189: -1437296702740435365
+      FondoEstrellas_19: 8044854592122097169
+      FondoEstrellas_190: 5439279684952951203
+      FondoEstrellas_191: -8443796376496385933
+      FondoEstrellas_192: -237414475414665336
+      FondoEstrellas_193: -6033598439415482014
+      FondoEstrellas_194: 1555534755219896135
+      FondoEstrellas_195: 4193970453869094799
+      FondoEstrellas_196: -4230321371459663069
+      FondoEstrellas_197: 3212675445516146806
+      FondoEstrellas_198: -7186626805830285231
+      FondoEstrellas_199: -4555429382540286523
+      FondoEstrellas_2: 4222440406473165126
+      FondoEstrellas_20: -7946977723204487343
+      FondoEstrellas_200: 1126173677793394931
+      FondoEstrellas_201: -7991108024202668423
+      FondoEstrellas_202: -8624761057203929237
+      FondoEstrellas_203: -3445319635588744680
+      FondoEstrellas_204: -1643851689949626454
+      FondoEstrellas_205: -7669432272044801762
+      FondoEstrellas_206: 8713731398062577202
+      FondoEstrellas_207: -5981144848657746174
+      FondoEstrellas_208: 829347646431192660
+      FondoEstrellas_209: -9047437410815982823
+      FondoEstrellas_21: 4899055192889957656
+      FondoEstrellas_210: 6037450193466477096
+      FondoEstrellas_211: -6147298434435673212
+      FondoEstrellas_212: -7822617146895092768
+      FondoEstrellas_213: 6569409511059281409
+      FondoEstrellas_214: 4485173677877369289
+      FondoEstrellas_215: -2896840887774793183
+      FondoEstrellas_216: 4315993496618364356
+      FondoEstrellas_217: -4204168820273634329
+      FondoEstrellas_218: -9156585675149088904
+      FondoEstrellas_219: 2661878813934127643
+      FondoEstrellas_22: -8690829796894424632
+      FondoEstrellas_220: -1570202750185211989
+      FondoEstrellas_221: -6906995141804074652
+      FondoEstrellas_222: -2511920010000406795
+      FondoEstrellas_223: -6611882126734913600
+      FondoEstrellas_224: -6419624365877147346
+      FondoEstrellas_225: -9164198152291241229
+      FondoEstrellas_226: 254088612518241427
+      FondoEstrellas_227: 6618772145181443653
+      FondoEstrellas_228: -4484264222104479054
+      FondoEstrellas_229: 1176877891809025690
+      FondoEstrellas_23: -2947658796891026889
+      FondoEstrellas_230: 8873069578334314469
+      FondoEstrellas_231: -8787258009700101733
+      FondoEstrellas_232: 4589962103146031531
+      FondoEstrellas_233: 9068677891030651507
+      FondoEstrellas_234: -8519121412971949952
+      FondoEstrellas_235: 6801579856601152964
+      FondoEstrellas_236: -1003170475038532064
+      FondoEstrellas_237: -1505322088550653635
+      FondoEstrellas_238: -1549095540744178974
+      FondoEstrellas_239: -1701456857728421489
+      FondoEstrellas_24: -2879491965018027394
+      FondoEstrellas_240: 6238405766329490087
+      FondoEstrellas_241: 5583067140747556446
+      FondoEstrellas_242: 7738235189163343810
+      FondoEstrellas_243: -6433562727706208023
+      FondoEstrellas_244: -3956985735027481752
+      FondoEstrellas_245: 1671506418314389447
+      FondoEstrellas_246: -2192696531805970371
+      FondoEstrellas_247: -8780613473328945978
+      FondoEstrellas_248: 8619160088476039267
+      FondoEstrellas_249: -607950651118584888
+      FondoEstrellas_25: 4866115247950577300
+      FondoEstrellas_250: -1173260834387791224
+      FondoEstrellas_251: 4262916669762611851
+      FondoEstrellas_252: 1961990188448332740
+      FondoEstrellas_253: -6023656080711990557
+      FondoEstrellas_254: 1496332715345561546
+      FondoEstrellas_255: -6134565194865187539
+      FondoEstrellas_256: 3739525766514359159
+      FondoEstrellas_257: 5106486457618757760
+      FondoEstrellas_258: -5385815698744658730
+      FondoEstrellas_259: -8189111946147901211
+      FondoEstrellas_26: 4285236667732036620
+      FondoEstrellas_260: -7650102404812477629
+      FondoEstrellas_261: -1417362935945150818
+      FondoEstrellas_262: -7660187824348540696
+      FondoEstrellas_263: -4468279196587972806
+      FondoEstrellas_264: -8966897686818065649
+      FondoEstrellas_265: -8733963597683665718
+      FondoEstrellas_266: 7173059174506591439
+      FondoEstrellas_267: -6074870576834848404
+      FondoEstrellas_268: -2448192263130519762
+      FondoEstrellas_269: -7761435799905909929
+      FondoEstrellas_27: 7087199582261303874
+      FondoEstrellas_270: 8145711989937525393
+      FondoEstrellas_271: 3135765156703075138
+      FondoEstrellas_272: -3900429974351542041
+      FondoEstrellas_273: -1095620630881921550
+      FondoEstrellas_274: 6515696360755234364
+      FondoEstrellas_275: 7206646710902069782
+      FondoEstrellas_276: 1578976054131410551
+      FondoEstrellas_28: 3818572691255856299
+      FondoEstrellas_29: -4389351373511792800
+      FondoEstrellas_3: 86147466307604245
+      FondoEstrellas_30: 4381657250605781778
+      FondoEstrellas_31: 5157840231722319490
+      FondoEstrellas_32: -3182127622975515148
+      FondoEstrellas_33: -5723483938527663247
+      FondoEstrellas_34: 3815052508568506908
+      FondoEstrellas_35: -6971703464535386975
+      FondoEstrellas_36: -6951462538807654781
+      FondoEstrellas_37: -8255747371212888939
+      FondoEstrellas_38: -7777656874954415832
+      FondoEstrellas_39: -6689990493846111804
+      FondoEstrellas_4: -3410019679921341723
+      FondoEstrellas_40: 3523167774636507878
+      FondoEstrellas_41: -987743953888446598
+      FondoEstrellas_42: 5282161778573364330
+      FondoEstrellas_43: -8717906330071225544
+      FondoEstrellas_44: -1594038449018639977
+      FondoEstrellas_45: 3904709867485942977
+      FondoEstrellas_46: -8133973358782830574
+      FondoEstrellas_47: 5774707030680843172
+      FondoEstrellas_48: -5724727989080525406
+      FondoEstrellas_49: 6663063846542880428
+      FondoEstrellas_5: 4039966114899904296
+      FondoEstrellas_50: -6303223067202323473
+      FondoEstrellas_51: -5432432662552380727
+      FondoEstrellas_52: -5924678752109685610
+      FondoEstrellas_53: 7301431100662923418
+      FondoEstrellas_54: 3653409505879669435
+      FondoEstrellas_55: -9173522768946832317
+      FondoEstrellas_56: 4048518709270265027
+      FondoEstrellas_57: 1640208617937371654
+      FondoEstrellas_58: -71205652230709976
+      FondoEstrellas_59: 5127418483334473616
+      FondoEstrellas_6: -5808677546083848127
+      FondoEstrellas_60: 7597162675133458322
+      FondoEstrellas_61: 3006122164781684037
+      FondoEstrellas_62: 1917275418007323499
+      FondoEstrellas_63: 7972820693988236590
+      FondoEstrellas_64: -477731802638064987
+      FondoEstrellas_65: -6567785780916806633
+      FondoEstrellas_66: 2786304590261558924
+      FondoEstrellas_67: 791879023008998763
+      FondoEstrellas_68: 4316796805453217810
+      FondoEstrellas_69: 5083892848605891968
+      FondoEstrellas_7: -2343844915403295415
+      FondoEstrellas_70: -5253207692273945363
+      FondoEstrellas_71: -3701123581757786581
+      FondoEstrellas_72: 2679977839001196534
+      FondoEstrellas_73: 9092075062545180009
+      FondoEstrellas_74: 7069342115916823683
+      FondoEstrellas_75: 7104914756552855205
+      FondoEstrellas_76: -7127379096555814870
+      FondoEstrellas_77: -7031314436229111344
+      FondoEstrellas_78: 7675808213917486257
+      FondoEstrellas_79: 8744166535276120095
+      FondoEstrellas_8: 6515993375929018211
+      FondoEstrellas_80: -3523372697416926543
+      FondoEstrellas_81: -4129446427049424165
+      FondoEstrellas_82: -1680076278518929126
+      FondoEstrellas_83: 2179213157147640971
+      FondoEstrellas_84: -879661938668012870
+      FondoEstrellas_85: -2333059355704744707
+      FondoEstrellas_86: -8366962777030814314
+      FondoEstrellas_87: -5602557283131186511
+      FondoEstrellas_88: -8401330861092526218
+      FondoEstrellas_89: -8941734218922419404
+      FondoEstrellas_9: 5769022530113168825
+      FondoEstrellas_90: -2544228634963499037
+      FondoEstrellas_91: 8506961850456061198
+      FondoEstrellas_92: -8569896152885238534
+      FondoEstrellas_93: -5872953830066572956
+      FondoEstrellas_94: 8348223065974927968
+      FondoEstrellas_95: -7855923676410515379
+      FondoEstrellas_96: -5259421714535619529
+      FondoEstrellas_97: -8682429908606130445
+      FondoEstrellas_98: 6486405797968005963
+      FondoEstrellas_99: 5757139765574961321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
