@@ -42,8 +42,6 @@ Se han añadido distintos tipos de enemigos, cada uno con su propio comportamien
 - **Enemy Space Ship Red**: enemigo que avanza de derecha a izquierda disparando proyectiles durante su trayectoria.
 - **Enemy Boss**: jefe final que aparece tras un tiempo determinado, se mueve verticalmente y dispara desde dos puntos alternos.
 
-![Boss](imagesReadme/BossFinal.png)
-
 Cada enemigo dispone de su propio script, permitiendo configurar su velocidad, daño, puntuación y comportamiento.
 
 ### Generador de enemigos
@@ -63,6 +61,8 @@ Cuando se alcanza el límite máximo de dificultad, se detiene la generación de
 El jefe final entra en escena desde el lado derecho de la pantalla. Una vez alcanza su posición, deja de desplazarse horizontalmente y comienza un movimiento vertical.
 
 El boss dispara proyectiles alternando entre dos puntos de disparo. A diferencia de los enemigos normales, necesita recibir varios impactos antes de ser destruido. Al derrotarlo, se muestra la pantalla de victoria.
+
+![Boss](imagesReadme/BossFinal.png)
 
 ### Power-ups
 
