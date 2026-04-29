@@ -1,10 +1,12 @@
-# Space Shooter
+# 🚀 Space Shooter
+
+![Gameplay](imagesReadme/ScreenGame.png)
 
 Proyecto desarrollado en Unity para la asignatura **Desarrollo de Videojuegos I** del Máster en Diseño y Desarrollo de Videojuegos.
 
 El proyecto parte de un prototipo base de *Space Shooter* realizado en clase, al que se han añadido nuevas mecánicas, sistemas de juego, enemigos, interfaz, progresión de dificultad y un jefe final.
 
-## Descripción del juego
+## 🎮 Descripción del juego
 
 Space Shooter es un juego arcade 2D en el que el jugador controla una nave espacial y debe sobrevivir a oleadas de enemigos mientras acumula puntuación. 
 
@@ -12,13 +14,13 @@ A medida que avanza la partida, la dificultad aumenta progresivamente, permitien
 
 El objetivo principal es resistir el mayor tiempo posible, eliminar enemigos, recoger power-ups de vida y derrotar al jefe final.
 
-## Enlace al juego
+## 🌐 Enlace al juego
 
 El juego está disponible en itch.io:
 
 https://shiro-gt.itch.io/space-shooter
 
-## Implementaciones principales
+## ⚙️ Implementaciones principales
 
 ### Sistema de vida
 
@@ -32,13 +34,15 @@ El jugador obtiene puntos al eliminar enemigos mediante sus disparos. Cada tipo 
 
 Además, se ha implementado un sistema de récord utilizando `PlayerPrefs`, de forma que la mejor puntuación se mantiene entre partidas. Las pantallas de derrota y victoria muestran la puntuación obtenida y modifican su contenido si se alcanza un nuevo récord.
 
-### Enemigos
+### 👾 Enemigos
 
 Se han añadido distintos tipos de enemigos, cada uno con su propio comportamiento:
 
 - **Enemy Space Ship Blue**: enemigo con movimiento horizontal de ida y vuelta dentro de unos límites definidos.
 - **Enemy Space Ship Red**: enemigo que avanza de derecha a izquierda disparando proyectiles durante su trayectoria.
 - **Enemy Boss**: jefe final que aparece tras un tiempo determinado, se mueve verticalmente y dispara desde dos puntos alternos.
+
+![Boss](imagesReadme/BossFinal.png)
 
 Cada enemigo dispone de su propio script, permitiendo configurar su velocidad, daño, puntuación y comportamiento.
 
@@ -78,6 +82,11 @@ El juego cuenta con dos pantallas finales:
 
 - **Game Over**: aparece cuando la vida del jugador llega a cero.
 - **Victory**: aparece al derrotar al jefe final.
+
+<p align="center">
+  <img src="imagesReadme/GameOver.png" width="45%" />
+  <img src="imagesReadme/Victory.png" width="45%" />
+</p>
 
 Ambas pantallas permiten reiniciar la partida o salir del juego, y muestran información sobre la puntuación y el récord.
 
@@ -131,7 +140,7 @@ El proyecto está organizado principalmente en:
 - `MusicManager`: controla la música de fondo.
 - `SpaceBackgroundParallax`: gestiona el movimiento del fondo.
 
-## Desarrollo
+## 🧠 Desarrollo
 
 Durante el desarrollo se ha seguido una estructura modular, separando la lógica del juego en diferentes scripts. Esta organización permite modificar o ampliar sistemas concretos sin afectar al resto del proyecto.
 
