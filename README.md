@@ -170,3 +170,11 @@ Algunas mejoras que podrían añadirse en futuras versiones son:
 ## Autora
 
 Proyecto desarrollado por **Marina González Torres**.
+
+## 🎵 Créditos
+
+- Música: tema obtenido de YouTube  
+  https://www.youtube.com/watch?v=aTs-36hiuoQ&t=188s  
+
+- Tipografía: "Arcade Ya" (DaFont)  
+  https://www.dafont.com/es/arcade-ya.font
